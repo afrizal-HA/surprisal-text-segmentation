@@ -9,3 +9,5 @@ Assume that a well-organized text can be broken down into multiple sections, eac
 You can find more details in the notebook demo.
 
 Find me: https://www.linkedin.com/in/afrizal-hasbi-azizy-182722218/
+
+p.s. The term 'contextual' surprisal is a bit misleading, but it's the nicest-sounding placeholder name I can think of right now
