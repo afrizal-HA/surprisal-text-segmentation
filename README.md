@@ -6,7 +6,9 @@ Surprisal is a value in information theory that captures the "unexpectedness" of
 
 Assume that a well-organized text can be broken down into multiple sections, each section describing unique things. The intuitive idea behind this algorithm is that the start of a new segment contains information which are new relative to both the preceding and succeeding tokens.
 
-You can find more details in the notebook demo.
+You can find more details in the notebook demo in this repo or in the Colab link below.
+
+Colab demo: https://bit.ly/Colab-SurprisalTextSegmentation
 
 Find me: https://www.linkedin.com/in/afrizal-hasbi-azizy-182722218/
 
